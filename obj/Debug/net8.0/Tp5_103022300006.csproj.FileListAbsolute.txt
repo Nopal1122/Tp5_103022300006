@@ -1,0 +1,15 @@
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\bin\Debug\net8.0\Tp5_103022300006.exe
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\bin\Debug\net8.0\Tp5_103022300006.deps.json
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\bin\Debug\net8.0\Tp5_103022300006.runtimeconfig.json
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\bin\Debug\net8.0\Tp5_103022300006.dll
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\bin\Debug\net8.0\Tp5_103022300006.pdb
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\Tp5_103022300006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\Tp5_103022300006.AssemblyInfoInputs.cache
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\Tp5_103022300006.AssemblyInfo.cs
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\Tp5_103022300006.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\Tp5_103022300006.sourcelink.json
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\Tp5_103022300006.dll
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\refint\Tp5_103022300006.dll
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\Tp5_103022300006.pdb
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\Tp5_103022300006.genruntimeconfig.cache
+C:\Users\Naufal\Documents\KPL\Tp5_103022300006\Tp5_103022300006\obj\Debug\net8.0\ref\Tp5_103022300006.dll
